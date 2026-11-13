@@ -1,4 +1,4 @@
-"""Lógica de negocio: estructuras en memoria + persistencia..."""
+"""Lógica de negocio: estructuras en memoria + persistencia...."""
 from datetime import datetime
 from modelos import Usuario, Publicacion, hash_password
 from persistencia import Persistencia
